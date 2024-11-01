@@ -1,0 +1,10 @@
+C:\Users\boros\source\repos\MasodikZH\MasodikZH\bin\Debug\MasodikZH.exe.config
+C:\Users\boros\source\repos\MasodikZH\MasodikZH\bin\Debug\MasodikZH.exe
+C:\Users\boros\source\repos\MasodikZH\MasodikZH\bin\Debug\MasodikZH.pdb
+C:\Users\boros\source\repos\MasodikZH\MasodikZH\obj\Debug\MasodikZH.csproj.AssemblyReference.cache
+C:\Users\boros\source\repos\MasodikZH\MasodikZH\obj\Debug\MasodikZH.Form1.resources
+C:\Users\boros\source\repos\MasodikZH\MasodikZH\obj\Debug\MasodikZH.Properties.Resources.resources
+C:\Users\boros\source\repos\MasodikZH\MasodikZH\obj\Debug\MasodikZH.csproj.GenerateResource.cache
+C:\Users\boros\source\repos\MasodikZH\MasodikZH\obj\Debug\MasodikZH.csproj.CoreCompileInputs.cache
+C:\Users\boros\source\repos\MasodikZH\MasodikZH\obj\Debug\MasodikZH.exe
+C:\Users\boros\source\repos\MasodikZH\MasodikZH\obj\Debug\MasodikZH.pdb
